@@ -22,7 +22,7 @@ body {
  
 
 .header {
-    background-color: #076AF0;
+    background-color: #3e955b;
     height: 80px;
     position: fixed;
     top: 0;
@@ -51,7 +51,7 @@ body {
 .logo {
     font-size: 30px;
     font-weight: bold;
-    padding: 0 40px;
+    padding: 0 0px;
     line-height: 80px;
 }
 
@@ -75,7 +75,7 @@ body {
  
 
 .nav-menu-item:hover {
-    background-color: #024070;
+    background-color: #1c462a;
     transition: 0.5s;
 }
 
